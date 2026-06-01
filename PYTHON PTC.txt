@@ -1,0 +1,22 @@
+| Data Types |
+Numerical: int, float, complex
+String: str
+Sequence types: list, tuple, range
+Binary Types: byte, bytearray, memoryview
+Mapping datatype: dict
+Boolean Type: bool
+Set datatype: set, frozenset
+
+
+| Type Casting |
+
+int()
+float()
+complex()
+bool()
+str()
+
+| Take Multiple User Inputs |
+
+a, b=map(int, input("Enter number:").split())
+print(a,b)
