@@ -20,3 +20,82 @@ str()
 
 a, b=map(int, input("Enter number:").split())
 print(a,b)
+
+
+OPERATORS
+
+Arithmetic Operator
+
+Addition +
+Subtraction - 
+MUl *
+Div /
+Floor division //
+Exponent **
+Modulus %
+
+Relational Operator
+
+    <= >= == !=
+    
+    Chaining of Relational Operator
+
+    10<20<30<40 -> True
+    10<20<30>40 -> False
+
+Logical Operator
+
+    and
+    or
+    not
+
+Bitwise Operator
+
+    Not - ~
+    And - &
+    Or - |
+    Left Shift - <<
+    Right Shift - >>
+    XOR - ^ # If number of 1's are even then the result is gonna be 0
+              Else the result will be 1
+              If you XOR a number with itself the result will be zero or it cancels out each other
+
+
+
+
+        ASSIGNMENT OPERATORS
+
+        =  : simple assignment
+        =  : add and assign (e.g., `x += 1`)
+        -=  : subtract and assign
+        *=  : multiply and assign
+        /=  : divide and assign
+        //= : floor divide and assign
+        %=  : modulus and assign
+        **= : exponent and assign
+        <<= : left shift and assign
+        >>= : right shift and assign
+        &=  : bitwise AND and assign
+        |=  : bitwise OR and assign
+        ^=  : bitwise XOR and assign
+        :=  : assignment expression (walrus operator)
+
+        OPERATOR PRECEDENCE (high → low)
+
+        `()` : parentheses (grouping), function calls, indexing, slicing
+        `**` : exponentiation (right-associative)
+        Unary: `+x`, `-x`, `~x`
+        `*`, `/`, `//`, `%` : multiplication, division, floor division, modulus
+        `+`, `-` : addition, subtraction
+        `<<`, `>>` : bitwise shifts
+        `&` : bitwise AND
+        `^` : bitwise XOR
+        `|` : bitwise OR
+        Comparisons: `in`, `not in`, `is`, `is not`, `<`, `<=`, `>`, `>=`, `!=`, `==`
+        `not` : boolean NOT
+        `and` : boolean AND
+        `or` : boolean OR
+        Conditional expression: `x if cond else y`
+        `lambda` : lambda expression (lowest precedence)
+
+        Note: `=` is a statement and not an expression; it doesn't participate in expression precedence.
