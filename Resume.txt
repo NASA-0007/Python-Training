@@ -1,0 +1,52 @@
+Identity Block
+
+    Name, Mobile No, Mugshot, Email id, LinkedIn & Github Profile
+
+Personal Profile
+
+    Explain the things about you in one line.
+
+Academics / Educational Qualifications
+
+    Reverse chronological order -> Latest will be First.
+
+Areas of interest
+
+    Write about the things you know well.
+
+Certificates
+
+    A valid cetificate with a unique id.
+
+Internships
+
+    Relevant Internships details
+
+Projects
+
+    Projects you have done.
+
+Achivements
+
+    Professional achivements only. Recent things only.
+
+Positions of Responsiblity
+
+    Positions such as leads of a club.
+
+Volunteering Experience
+
+
+
+Co-Curricular
+
+
+
+Interests
+
+
+
+Declaration (only if being handed over to the end person by someone other than you)
+
+
+
